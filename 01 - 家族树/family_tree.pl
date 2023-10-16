@@ -17,7 +17,7 @@ father(X, Y) :-
     parent(X, Y),
     man(X).
 
-% X 是 Y 的姐或妹关系
+% X 是 Y 的姐或妹
 sister(X, Y) :-
     % 要有一样的父母
     parent(Z, X),

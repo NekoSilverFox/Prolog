@@ -143,3 +143,8 @@ mother(X, Y):-
 	woman(X).
 ```
 
+
+
+## Debug
+
+使用 `trace.` 可以展示下一个命令的搜寻过程
