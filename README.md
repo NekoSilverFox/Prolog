@@ -13,7 +13,9 @@
 
 <div align="left">
 <!-- 顶部至此截止 -->
-
+> 推荐笔记：
+>
+> https://zhzluke96.github.io/prolog-tut-cn/
 
 
 
